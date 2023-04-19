@@ -35,3 +35,6 @@ Esta página está diseñada específicamente para fines de prueba. Como tal, es
 
 # Autor
 Carlos Andres Giraldo Marin
+
+# Observaciones
+Cada uno de los casos de prueba cuenta con una gran cantidad de esperas explicitas, ya que toda la pagina web se maneja con un iframe y los elementos no cargaban de forma rapida
