@@ -1,0 +1,19 @@
+{
+  "name": "pruebatecnicarebus",
+  "version": "1.0.0",
+  "description": "Prueba Tecnica Rebus",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Carlos Andres Giraldo Marin",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.10.0",
+    "faker": "^5.5.3",
+    "mocha": "^10.2.0"
+  }
+}
