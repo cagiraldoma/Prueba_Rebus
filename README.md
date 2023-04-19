@@ -23,9 +23,9 @@ Faker nos permitire crear correos electronicos aleatorios
 
 Instalar Mocha
 
-Macha nos permitira utilizar hooks
+Mocha nos permitira utilizar hooks
 
-`npm install mucha --save-dev`
+`npm install mocha --save-dev`
 
 # Uso
 El Proyecto cuenta con un unico archivo `cy.js` el cual contiene el set de pruebas con cada uno de los test cases
